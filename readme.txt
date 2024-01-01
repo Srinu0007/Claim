@@ -1,0 +1,1 @@
+Getting the repository ready for new project 
