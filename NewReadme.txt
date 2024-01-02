@@ -1,0 +1,1 @@
+Planning a project on core Java 
